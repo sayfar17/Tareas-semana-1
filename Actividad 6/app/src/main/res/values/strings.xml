@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarjeta de Presentacion</string>
+
+    <string name="full_name">Farid Lopez</string>
+    <string name="title">Estudiante</string>
+    <string name="number">910 618 027</string>
+    <string name="socialmedia">\@sayfar17</string>
+    <string name="email">flopezsa@undac.edu.pe</string>
+</resources>
