@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6142498c-223b-4590-b663-3240e2dda852" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/androidTest/java/com/example/happybirthday/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/java/com/example/happybirthday/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/java/com/example/happybirthday/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/java/com/example/happybirthday/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/java/com/example/happybirthday/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/app/src/test/java/com/example/happybirthday/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 3/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/androidTest/java/com/example/happybirthday/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/java/com/example/happybirthday/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/java/com/example/happybirthday/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/java/com/example/happybirthday/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/java/com/example/happybirthday/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/drawable-nodpi/androidparty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/app/src/test/java/com/example/happybirthday/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actividad 4/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Administrador de Tareas/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Administrador de Tareas/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Administrador de Tareas/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Administrador de Tareas/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Administrador de Tareas/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Administrador de Tareas/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Administrador de Tareas/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Administrador de Tareas/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="31zRBvF2kXqxZyzbUeKEuJgqyG1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "android.gradle.sync.needed": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6142498c-223b-4590-b663-3240e2dda852" name="Changes" comment="" />
+      <created>1756524805855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756524805855</updated>
+    </task>
+    <servers />
+  </component>
+</project>
